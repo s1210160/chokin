@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">chokin</string>
+
+    <!-- activity_my -->
+    <string name="text_title1">ちょきちょき</string>
+    <string name="text_title2">ちょきーーーん。</string>
+    <string name = "text_goal">*目標*</string>
+    <string name="text_sum">*貯金額*</string>
+    <string name="text_yen">￥</string>
+    <string name="button_set">目標の設定</string>
+    <string name="button_chokin">貯金する</string>
+    
+    <!-- initial_setting -->
+    <string name="text_intial_setting">**初期設定**</string>
+    <string name="text_character_setting">キャラクター</string>
+
+    <!-- my -->
+    <string name="setting">設定</string>
+
+    <!-- chokin -->
+    
+
+</resources>
